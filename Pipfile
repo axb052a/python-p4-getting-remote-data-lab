@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 requests = "*"
 pytest = "*"
+and = "*"
+pipenv = "*"
+shell = "*"
 
 [dev-packages]
 
